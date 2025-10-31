@@ -11,7 +11,7 @@ My solution uses a simple **sort-based approach** to determine the middle value 
 ---
 
 #Task Screenshot
-![OOP Algorithms Task](OOP2025%20-%20task%204%20-%20Algorithmik/OOP2025%20-%20task4%20-%20Algorithmmik.png "OOP2025 – Task 4 – Algorithmik (FernUniversität in Hagen)")
+![OOP Algorithms Task](OOP2025%20-%20task%204%20-%20Algorithmik/OOP2025%20-%20task4%20-%20Algorithmmik.png "OOP2025 – Task4 – Algorithmik (FernUniversität in Hagen)")
 
 > *This screenshot shows the original algorithmic task from the FernUniversität in Hagen (Course 63016).*  
 > The **task belongs to the FernUniversität in Hagen** and is shown here only for **educational and illustrative purposes**.  
